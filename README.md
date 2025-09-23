@@ -14,7 +14,7 @@ Make a virtual environment (optional but recommended) and then do ` pip install 
 
 
 Usage
-
+- clone or zip this repository.
 - Run the dynamic-programming implementation: python wer_DP.py
 - Run the jiwer-based example (requires `jiwer` in `requirements.txt`): python wer_JIWER.py
 
