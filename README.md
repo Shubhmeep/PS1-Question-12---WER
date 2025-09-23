@@ -10,7 +10,7 @@ Prerequisites
 - Python 3.8+ (or any modern Python 3.x)
 - Project dependencies are listed in `requirements.txt` (install with pip).
 
-Make a virtual environment (optional but recommended) and then do 'pip install -r requirements.txt' to install dependencies.
+Make a virtual environment (optional but recommended) and then do ` pip install -r requirements.txt` to install dependencies.
 
 
 Usage
