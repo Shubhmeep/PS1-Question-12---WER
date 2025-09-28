@@ -22,7 +22,7 @@ Usage
 Both scripts print a small example using the same reference and hypothesis sentences and show WER and the S/I/D counts.
 
 Notes
-- The example reference/hypothesis are embedded in the scripts; to evaluate your own text, edit the `REF`/`HYP` variables in `wer_DP.py` or the `ref`/`hyp` variables in `wer_JIWER.py`. Transcription for each individual in the group mentioned below.
+- The example reference/hypothesis are embedded in the scripts; to evaluate your own text, edit the `REF`/`HYP` variables in `wer_DP.py` or the `ref`/`hyp` variables in `wer_JIWER.py`. Transcription for each individual in the group mentioned below and in input.txt.
 
 ## Example: Replace these in wer_DP.py or wer_JIWER.py
 
